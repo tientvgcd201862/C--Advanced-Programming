@@ -1,0 +1,15 @@
+C:\Users\Tien\source\repos\Asm3\Asm3\bin\Debug\net6.0\Asm3.exe
+C:\Users\Tien\source\repos\Asm3\Asm3\bin\Debug\net6.0\Asm3.deps.json
+C:\Users\Tien\source\repos\Asm3\Asm3\bin\Debug\net6.0\Asm3.runtimeconfig.json
+C:\Users\Tien\source\repos\Asm3\Asm3\bin\Debug\net6.0\Asm3.dll
+C:\Users\Tien\source\repos\Asm3\Asm3\bin\Debug\net6.0\Asm3.pdb
+C:\Users\Tien\source\repos\Asm3\Asm3\obj\Debug\net6.0\Asm3.csproj.AssemblyReference.cache
+C:\Users\Tien\source\repos\Asm3\Asm3\obj\Debug\net6.0\Asm3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien\source\repos\Asm3\Asm3\obj\Debug\net6.0\Asm3.AssemblyInfoInputs.cache
+C:\Users\Tien\source\repos\Asm3\Asm3\obj\Debug\net6.0\Asm3.AssemblyInfo.cs
+C:\Users\Tien\source\repos\Asm3\Asm3\obj\Debug\net6.0\Asm3.csproj.CoreCompileInputs.cache
+C:\Users\Tien\source\repos\Asm3\Asm3\obj\Debug\net6.0\Asm3.dll
+C:\Users\Tien\source\repos\Asm3\Asm3\obj\Debug\net6.0\refint\Asm3.dll
+C:\Users\Tien\source\repos\Asm3\Asm3\obj\Debug\net6.0\Asm3.pdb
+C:\Users\Tien\source\repos\Asm3\Asm3\obj\Debug\net6.0\Asm3.genruntimeconfig.cache
+C:\Users\Tien\source\repos\Asm3\Asm3\obj\Debug\net6.0\ref\Asm3.dll
