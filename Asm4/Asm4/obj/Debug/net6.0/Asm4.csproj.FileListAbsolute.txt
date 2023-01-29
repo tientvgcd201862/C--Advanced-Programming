@@ -1,0 +1,15 @@
+C:\Users\Tien\source\repos\Asm4\Asm4\bin\Debug\net6.0\Asm4.exe
+C:\Users\Tien\source\repos\Asm4\Asm4\bin\Debug\net6.0\Asm4.deps.json
+C:\Users\Tien\source\repos\Asm4\Asm4\bin\Debug\net6.0\Asm4.runtimeconfig.json
+C:\Users\Tien\source\repos\Asm4\Asm4\bin\Debug\net6.0\Asm4.dll
+C:\Users\Tien\source\repos\Asm4\Asm4\bin\Debug\net6.0\Asm4.pdb
+C:\Users\Tien\source\repos\Asm4\Asm4\obj\Debug\net6.0\Asm4.csproj.AssemblyReference.cache
+C:\Users\Tien\source\repos\Asm4\Asm4\obj\Debug\net6.0\Asm4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien\source\repos\Asm4\Asm4\obj\Debug\net6.0\Asm4.AssemblyInfoInputs.cache
+C:\Users\Tien\source\repos\Asm4\Asm4\obj\Debug\net6.0\Asm4.AssemblyInfo.cs
+C:\Users\Tien\source\repos\Asm4\Asm4\obj\Debug\net6.0\Asm4.csproj.CoreCompileInputs.cache
+C:\Users\Tien\source\repos\Asm4\Asm4\obj\Debug\net6.0\Asm4.dll
+C:\Users\Tien\source\repos\Asm4\Asm4\obj\Debug\net6.0\refint\Asm4.dll
+C:\Users\Tien\source\repos\Asm4\Asm4\obj\Debug\net6.0\Asm4.pdb
+C:\Users\Tien\source\repos\Asm4\Asm4\obj\Debug\net6.0\Asm4.genruntimeconfig.cache
+C:\Users\Tien\source\repos\Asm4\Asm4\obj\Debug\net6.0\ref\Asm4.dll
