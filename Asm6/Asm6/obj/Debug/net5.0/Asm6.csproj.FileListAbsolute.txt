@@ -1,0 +1,16 @@
+C:\Users\Tien\source\repos\Asm6\Asm6\bin\Debug\net5.0\Asm6.exe
+C:\Users\Tien\source\repos\Asm6\Asm6\bin\Debug\net5.0\Asm6.deps.json
+C:\Users\Tien\source\repos\Asm6\Asm6\bin\Debug\net5.0\Asm6.runtimeconfig.json
+C:\Users\Tien\source\repos\Asm6\Asm6\bin\Debug\net5.0\Asm6.runtimeconfig.dev.json
+C:\Users\Tien\source\repos\Asm6\Asm6\bin\Debug\net5.0\Asm6.dll
+C:\Users\Tien\source\repos\Asm6\Asm6\bin\Debug\net5.0\Asm6.pdb
+C:\Users\Tien\source\repos\Asm6\Asm6\obj\Debug\net5.0\Asm6.csproj.AssemblyReference.cache
+C:\Users\Tien\source\repos\Asm6\Asm6\obj\Debug\net5.0\Asm6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien\source\repos\Asm6\Asm6\obj\Debug\net5.0\Asm6.AssemblyInfoInputs.cache
+C:\Users\Tien\source\repos\Asm6\Asm6\obj\Debug\net5.0\Asm6.AssemblyInfo.cs
+C:\Users\Tien\source\repos\Asm6\Asm6\obj\Debug\net5.0\Asm6.csproj.CoreCompileInputs.cache
+C:\Users\Tien\source\repos\Asm6\Asm6\obj\Debug\net5.0\Asm6.dll
+C:\Users\Tien\source\repos\Asm6\Asm6\obj\Debug\net5.0\refint\Asm6.dll
+C:\Users\Tien\source\repos\Asm6\Asm6\obj\Debug\net5.0\Asm6.pdb
+C:\Users\Tien\source\repos\Asm6\Asm6\obj\Debug\net5.0\Asm6.genruntimeconfig.cache
+C:\Users\Tien\source\repos\Asm6\Asm6\obj\Debug\net5.0\ref\Asm6.dll
